@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <EnablePackageValidation>true</EnablePackageValidation>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <PackageId>Kurnakov.TestNuget</PackageId>
+    <Title>Kurnakov.TestNuget</Title>
+    <Authors>Kurnakov</Authors>
+    <Company>Kurnakov</Company>
+    <Product>TestNuget</Product>
+    <Description>TestNuget</Description>
+    <PackageProjectUrl>https://github.com/KurnakovMaksim/TestNugetPackage</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KurnakovMaksim/TestNugetPackage</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
