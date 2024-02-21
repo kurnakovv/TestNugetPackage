@@ -8,7 +8,7 @@ namespace KurnakovTestNuget
     public static class MyConsoleLog
     {
         /// <summary>
-        /// Log.
+        /// Log (test).
         /// </summary>
         /// <param name="value">Value.</param>
         public static void Log(string value)
