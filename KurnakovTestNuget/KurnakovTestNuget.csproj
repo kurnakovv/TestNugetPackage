@@ -14,7 +14,7 @@
     <RepositoryUrl>https://github.com/KurnakovMaksim/TestNugetPackage</RepositoryUrl>
     <PackageIcon>icon.png</PackageIcon>
     <PackageReadmeFile>ReadMe.md</PackageReadmeFile>
-    <PackageTags>tag</PackageTags>
+    <PackageTags>tag tag2</PackageTags>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <RepositoryType>git</RepositoryType>
