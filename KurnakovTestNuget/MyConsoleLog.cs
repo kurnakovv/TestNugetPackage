@@ -13,6 +13,7 @@ namespace KurnakovTestNuget
         /// <param name="value">Value.</param>
         public static void Log(string value)
         {
+            // Some comment
             Console.WriteLine(value);
         }
     }
